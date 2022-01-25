@@ -20,7 +20,7 @@ const CustomDrawer=(props)=>{
             <Text>Felex Onyango</Text>
             <Text>felexonyango19@gmail.com</Text>
         </View>
-        <Image source={require('../assets/1693.jpg')}style={{width: 60, height: 60,borderRadius:30}}/>
+        <Image source={require('../assets/58067903.jpeg')}style={{width: 60, height: 60,borderRadius:30}}/>
         </View>
         <DrawerItemList {...props}/>
        
